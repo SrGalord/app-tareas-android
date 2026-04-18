@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">galvisjaddys</string>
+    <string name="lista_de_usuarios">Lista de Usuarios</string>
+    <string name="total_usuarios_0">Total usuarios: 0</string>
+    <string name="agregar_usuario">Agregar Usuario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
